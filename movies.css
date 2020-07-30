@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Roboto;
+    background-image: url('https://images.pexels.com/photos/269140/pexels-photo-269140.jpeg?cs=srgb&dl=auditorium-chairs-comfortable-concert-269140.jpg&fm=jpg');
+ }
+
+
+h3 {
+    font-family:Roboto;
+}
+
+h3 {
+color:white;
+}
+
+h4{
+    color:rgb(5, 1, 19);
+}
+
+li a {
+    color:orange;
+}
+
+h4 a {
+    color:black;
+    
+}
+
+h4 a:hover {
+    color:rgb(255, 255, 255);
+    
+}
+
+h5{
+    color:orange;
+}
+
+input{
+    padding: 5px 10px;
+}
+
+#search_form{
+    margin-top:150px;
+}
